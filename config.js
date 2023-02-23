@@ -1,3 +1,2 @@
-console.log("Hello world Version 2.2");
-console.log("config version 2.2");
-console.log("Version 3");
+console.log("Hello world Version 2");
+console.log("config version 2");
